@@ -23,8 +23,8 @@
 
 原生风格是行首缩进四个空格，而 github 的风格是代码块前后分别用三个反引号```` `独占一行来标记。
 
-```javascript
-​```javascript
-console.log('代码');
-​```
+```markdown
+	```javascript
+	console.log('代码');
+	\`\`\`
 ```
